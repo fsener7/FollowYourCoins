@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion '29.0.3'
     defaultConfig {
-        applicationId "crypto.tracer.app"
+        applicationId "com.followyourcoins.app"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 6

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Crypto Tracer</string>
+    <string name="app_name">Follow Your Coins</string>
     <string name="up_caret">&#9650;</string>
     <string name="down_caret">&#9660;</string>
     <string name="fa_icon_areachart">&#xf1fe;</string>

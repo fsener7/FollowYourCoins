@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimaryDark"
-    tools:context="crypto.tracer.app.search.SearchCoinsActivity">
+    tools:context="com.followyourcoins.app.search.SearchCoinsActivity">
 
     <RelativeLayout
         android:id="@+id/rlSearch"
